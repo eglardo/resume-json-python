@@ -9,7 +9,7 @@ data = '''
 	"home_address": "440 José Lins do Rêgo Street, Campina Grande City PB",
 	"start_date": 1573077739,
 	"opportunity_tag": "dev_intern_200",
-	"past_jobs_experience": "I worked as a sailor on fishing vessels. Took care of deck maintenance and cleaning for 3 years on 7 seas.",
+	"past_jobs_experience": "I worked as Electronic Engineer in Brasil Navy with radar, sonar, software system for navigation and control network system of intern ship and other communication . Took care of hardware/firmware and maintenance for 4 years. Then I worked with renewable energy project and upgrade solar power system residential and factory, Then I worked as teacher of Electronic/hardware/Firmware for students.",
 	"degrees": [{
 		"institution_name": "Universidade Federal de Campina Grande",
 		"degree_name": "Electronic Engineer",
